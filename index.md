@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 ---
 
 [View my linkedin](https://www.linkedin.com/in/toriwang).
