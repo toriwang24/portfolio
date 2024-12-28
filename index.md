@@ -15,11 +15,21 @@ layout: default
 
 
 * * *
-### Education
+## Education
 
 
 * * *
 
+
+## Skills and Passions
+
+
+* * *
+
+## Personal Projects
+
+
+* * *
 
 > This is a blockquote following a header.
 >
