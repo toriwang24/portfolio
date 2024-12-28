@@ -2,16 +2,23 @@
 layout: default
 ---
 
-[View my linkedin](https://www.linkedin.com/in/toriwang).
 
 
 # Welcome to my Website!
 
---Insert Intro Paragraph--
+I am a Data and Technology Associate Consultant at PwC, where I conduct data science and engineering for our private equity value & capital markets value creation practice. 
+I am passionate about innovative practices for data management and analytics, and effectively commmunicating the tangible results of data driven insights!
 
 * * *
 
 ## Work Experience
+### PwC Consulting Services	
+#### San Francisco, CA
+Data and Technology Solutions Consultant	
+
+* Managed ETL processes in SSMS (SQL), Alteryx, and Azure Data Factory to organize client financial data into meaningful schemas for future analytical processing and business needs reporting through Power BI.
+* Created statistical models including customer churn analysis, transaction allocation, and product resegmentation through historical transaction data analysis in Python and Databricks.
+* Managed feature creation and user testing for a client facing application targeting job leveling. This application is built by the Data and Technology team at PwC, and aided in deals valued at $4.7B+, capturing value through employee restructuring.
 
 
 * * *
@@ -30,6 +37,9 @@ layout: default
 
 
 * * *
+
+[Reach me through my linkedin!](https://www.linkedin.com/in/toriwang).
+
 
 > This is a blockquote following a header.
 >
