@@ -6,14 +6,13 @@ layout: default
 
 # Welcome to my Website!
 
-I am a Data and Technology Associate Consultant at PwC, where I conduct data science and engineering for our private equity value & capital markets value creation practice. 
+I am a Data and Technology Associate Consultant at PwC, where I conduct data science and engineering for our private equity value & capital markets value creation practice.
 I am passionate about innovative practices for data management and analytics, and effectively commmunicating the tangible results of data driven insights!
 
 * * *
 
 ## Work Experience
-### PwC Consulting Services	
-#### San Francisco, CA
+### PwC Consulting Services
 Data and Technology Solutions Consultant	
 
 * Managed ETL processes in SSMS (SQL), Alteryx, and Azure Data Factory to organize client financial data into meaningful schemas for future analytical processing and business needs reporting through Power BI.
@@ -21,6 +20,12 @@ Data and Technology Solutions Consultant
 * Managed feature creation and user testing for a client facing application targeting job leveling. This application is built by the Data and Technology team at PwC, and aided in deals valued at $4.7B+, capturing value through employee restructuring.
 
 
+### PwC Consulting Services	
+Data and Technology Solutions Consultant Intern
+
+* Created ETL pipeline for transaction datasets for an M&A deal valuing 3.9B+ using Python, SQL, and Azure tools, transforming data into actionable insights to support strategic decision-making processes.
+* Investigated key performance indicator (KPI) movements and interpret trends within evolving datasets, and communicated business strategies through visualizations and dashboards in Power BI.
+  
 * * *
 ## Education
 
