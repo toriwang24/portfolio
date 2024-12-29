@@ -86,6 +86,9 @@ See my Personal Projects [here (currently leads to linkedin)](https://www.linked
 
 [Reach me through my linkedin!](https://www.linkedin.com/in/toriwang).
 
+### Small image
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 
 ### Large image
