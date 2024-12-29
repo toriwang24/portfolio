@@ -3,6 +3,8 @@ layout: default
 ---
 
 [Link to another page](./another-page.html).
+[Link to innovation challenge](./innovation-challenge-project.html).
+
 
 # Welcome to my Website!
 
