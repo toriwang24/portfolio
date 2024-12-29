@@ -2,6 +2,7 @@
 layout: default
 ---
 
+[Link to another page](./another-page.html).
 
 # Welcome to my Website!
 
