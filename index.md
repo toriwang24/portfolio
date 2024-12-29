@@ -5,11 +5,23 @@ layout: default
 
 # Welcome to my Website!
 
-I am a Data and Technology Associate Consultant at PwC, where I conduct data science and engineering for our private equity value & capital markets value creation practice.
-I am passionate about innovative practices for data management and analytics, and effectively commmunicating the tangible results of data driven insights!
+I am a Data and Technology Associate Consultant at PwC, where I conduct data science and engineering for our private equity & capital markets value creation practice.
+I am passionate about innovative practices for data management and analytics, and effectively commmunicating tangible results of data driven insights!
 
 * * *
 
+## Personal and Academic Projects
+
+### UCLA, AWS, and Slalom Innovation Challenge
+#### _Project Manager, Data Research Lead_
+
+
+
+### Capstone Project (FingerHut Retail User Analysis)
+#### _Project Manager, Data Scientist_
+
+
+* * *
 ## Work Experience
 
 ### PwC Consulting Services
