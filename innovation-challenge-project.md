@@ -3,7 +3,7 @@
 
 [Link to readme](pdfs/Team5-DataRangers-Readme.pdf).
 
-[Link to executive summary]('pdfs/Team5-DataRangers-{Executive Summary}.pdf')
+[Link to executive summary](pdfs/Team5-DataRangers-Executive-Summary.pdf)
 
 
 [Link to news article](https://newsroom.ucla.edu/stories/ucla-students-app-for-2028-olympic-games).
