@@ -96,11 +96,3 @@ _Activities_: Consultant, International Bruins in Business; Project Lead, ArtRea
 * Tools & Applications: Python, SQL, RStudio, Tableau, Alteryx, Jupyter Notebooks, Azure AI Services
 * Certifications: Azure Fundamentals, Azure Data Fundamentals, Alteryx Designer Core 
 
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
