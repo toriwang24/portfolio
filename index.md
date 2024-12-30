@@ -12,7 +12,7 @@ Feel free to look through my projects and reach me through my [linkedin](https:/
 
 ## Personal and Academic Projects
 
-### UCLA, AWS, and Slalom Innovation Challenge
+## UCLA, AWS, and Slalom Innovation Challenge
 #### _Project Manager, Data Research Lead_
 
 I was part of a 7 person student team in an Innovation Challenge sponsored by AWS, Slalom, the UCLA Epicenter for Action Research, and the 2024 Olympic planning committee. We were prompted to create an application aimed towards fostering online engagement for the 2024 Summer Olympics. 
@@ -29,7 +29,7 @@ I had such a fun time with my teammates, and our team ended up winning which gav
 <img src="assets/img/MedalUp-3.png" alt="Alt Text" width="500" height="280">
 
 
-### FingerHut Retail User Analysis
+## FingerHut Retail User Analysis
 #### _Project Manager, Data Scientist_
 
 As part of the Capstone Course for the Data Theory Major, students must conduct a comprehensive project with an industry partner. For my project, I worked in a team of 4 to conduct customer analysis for an online retail store named FingerHut. FingerHut's mission was to make shopping for higher end products accessible to those with lower credit scores through pay over time and discounting strategies. FingerHut was interested in how webpage click data could be utilized towards optimizing advertisements, recommendations, and discounting strategies. 
