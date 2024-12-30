@@ -2,15 +2,12 @@
 layout: default
 ---
 
-[Link to another page](./another-page.html).
-[Link to innovation challenge](./innovation-challenge-project.html).
-
-
 # Welcome to my Website!
 
 I am a Data and Technology Associate Consultant at PwC, where I conduct data science and engineering for our private equity & capital markets value creation practice.
 I am passionate about innovative practices for data management and analytics, and effectively commmunicating tangible results of data driven insights!
 
+Feel free to look through my projects and reach out through my [linkedin](https://www.linkedin.com/in/toriwang)!
 * * *
 
 ## Personal and Academic Projects
@@ -18,10 +15,32 @@ I am passionate about innovative practices for data management and analytics, an
 ### UCLA, AWS, and Slalom Innovation Challenge
 #### _Project Manager, Data Research Lead_
 
+I was part of a 7 person student team in an Innovation Challenge sponsored by AWS, Slalom, the UCLA Epicenter for Action Research, and the 2024 Olympic planning committee. We were prompted to create an application aimed towards fostering online engagement for the 2024 Summer Olympics. 
+
+We created an innovative application, designed to revolutionize how users engage with the Olympic Games. By leveraging a suite of cutting-edge technologies from Amazon Web Services (AWS), we designed our platform to deliver a uniquely personalized digital experience that's both dynamic and engaging.
+
+I had such a fun time with my teammates, and our team ended up winning which gave us the opportunity to present our presentation to the Olympic Planning Committee! It was a great experience and we were even featured on UCLA newsroom.
+
+<img src="assets/img/MedalUp-News.png" alt="Alt Text" width="400" height="400">
+
+#### Here are some previews of our Pitch Deck. View the full presentation [here]("pdfs/Team5-DataRangers-Pitch-Deck.pdf").
+<img src="assets/img/MedalUp-1.png" alt="Alt Text" width="500" height="280">
+<img src="assets/img/MedalUp-2.png" alt="Alt Text" width="500" height="280">
+<img src="assets/img/MedalUp-3.png" alt="Alt Text" width="500" height="280">
 
 
-### Capstone Project (FingerHut Retail User Analysis)
+### FingerHut Retail User Analysis
 #### _Project Manager, Data Scientist_
+
+As part of the Capstone Course for the Data Theory Major, students must conduct a comprehensive project with an industry partner. For my project, I worked in a team of 4 to conduct customer analysis for an online retail store named FingerHut. FingerHut's mission was to make shopping for higher end products accessible to those with lower credit scores through pay over time and discounting strategies. FingerHut was interested in how webpage click data could be utilized towards optimizing advertisements, recommendations, and discounting strategies. 
+
+As part of our project, my team developed a Python-based workflow to analyze server calls on a retail website over a 3 month timeframe, and conducted feature selection on variables, extracting and cleaning 5% of total metrics to use in model creation. We then created a baseline logistic regression model, and a neural network that achieved 70% accuracy in predicting eventual customer purchase. We presented our findings around the customer experience and purchase prediction to recommend advertising strategies to FingerHut.
+
+
+#### Here are some previews of our presentation. View the full presentation [here]("pdfs/M148-Slide-Deck.pdf").
+<img src="assets/img/M148-1.png" alt="Alt Text" width="500" height="280">
+<img src="assets/img/M148-2.png" alt="Alt Text" width="500" height="280">
+<img src="assets/img/M148-3.png" alt="Alt Text" width="500" height="280">
 
 
 * * *
@@ -76,26 +95,6 @@ _Activities_: Consultant, International Bruins in Business; Project Lead, ArtRea
 * Analytics & Visualization: Machine Learning Algorithms, Customer Churn, Product Segmentation
 * Tools & Applications: Python, SQL, RStudio, Tableau, Alteryx, Jupyter Notebooks, Azure AI Services
 * Certifications: Azure Fundamentals, Azure Data Fundamentals, Alteryx Designer Core 
-
-* * *
-
-## Personal Projects
-See my Personal Projects [here (currently leads to linkedin)](https://www.linkedin.com/in/toriwang).
-
-* * *
-
-[Reach me through my linkedin!](https://www.linkedin.com/in/toriwang).
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
 
 
 ```
