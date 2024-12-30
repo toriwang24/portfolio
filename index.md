@@ -19,7 +19,7 @@ I was part of a 7 person student team in an Innovation Challenge sponsored by AW
 
 We created an innovative application, designed to revolutionize how users engage with the Olympic Games. By leveraging a suite of cutting-edge technologies from Amazon Web Services (AWS), we designed our platform to deliver a uniquely personalized digital experience that's both dynamic and engaging.
 
-I had such a fun time with my teammates, and our team ended up winning which gave us the opportunity to present our presentation to the Olympic Planning Committee! It was a great experience and we were even featured on [UCLA newsroom]("https://newsroom.ucla.edu/stories/ucla-students-app-for-2028-olympic-games").
+I had such a fun time with my teammates, and our team ended up winning which gave us the opportunity to present our presentation to the Olympic Planning Committee! It was a great experience and we were even featured on [UCLA newsroom](https://newsroom.ucla.edu/stories/ucla-students-app-for-2028-olympic-games).
 
 <img src="assets/img/MedalUp-News.png" alt="Alt Text" width="400" height="400">
 
