@@ -7,7 +7,7 @@ layout: default
 I am a Data and Technology Associate Consultant at PwC, where I conduct data science and engineering for our private equity & capital markets value creation practice.
 I am passionate about innovative practices for data management and analytics, and effectively commmunicating tangible results of data driven insights!
 
-Feel free to look through my projects and reach out through my [linkedin](https://www.linkedin.com/in/toriwang)!
+Feel free to look through my projects and reach me through my [linkedin](https://www.linkedin.com/in/toriwang)!
 * * *
 
 ## Personal and Academic Projects
