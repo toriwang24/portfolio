@@ -10,6 +10,36 @@ I am passionate about innovative practices for data management and analytics, an
 Feel free to look through my projects and reach me through my [linkedin](https://www.linkedin.com/in/toriwang)!
 * * *
 
+## Work Experience
+
+### PwC Consulting Services
+#### _Data and Technology Solutions Consultant_
+
+* Managed ETL processes in SSMS (SQL), Alteryx, and Azure Data Factory to organize client financial data into meaningful schemas for future analytical processing and business needs reporting through Power BI.
+* Created statistical models including customer churn analysis, transaction allocation, and product resegmentation through historical transaction data analysis in Python and Databricks.
+* Managed feature creation and user testing for a client facing application targeting job leveling. This application is built by the Data and Technology team at PwC, and aided in deals valued at $4.7B+, capturing value through employee restructuring.
+
+
+### PwC Consulting Services	
+#### _Data and Technology Solutions Consultant Intern_
+
+* Created ETL pipeline for transaction datasets for an M&A deal valuing 3.9B+ using Python, SQL, and Azure tools, transforming data into actionable insights to support strategic decision-making processes.
+* Investigated key performance indicator (KPI) movements and interpret trends within evolving datasets, and communicated business strategies through visualizations and dashboards in Power BI.
+
+### Binance - Swipe Division
+#### _Risk and Compliance Consultant Intern_
+
+* Conducted research and analyzed customer behavior data to identify risks and opportunities.
+* Contributed to improving compliance policies and optimizing product offerings.
+* Provided insights for finance and compliance teams, leveraging quantitative analysis of quarterly compliance testing to refine company risk management processes and optimize product design.
+
+### UCLA Office of Residential Life
+#### _Lead Residential Advisor_
+
+* Serve as live-in advisor for 93 UCLA students to create an inclusive, healthy, safe residential community
+* Mediate roommate conflicts, host floor meetings, and plan events to promote connectivity (dinners, socials)
+* Provide guidance and resources to support residents through academic, social, and mental health challenges
+
 ## Personal and Academic Projects
 
 ## UCLA, AWS, and Slalom Innovation Challenge
@@ -44,36 +74,6 @@ As part of our project, my team developed a Python-based workflow to analyze ser
 
 
 * * *
-## Work Experience
-
-### PwC Consulting Services
-#### _Data and Technology Solutions Consultant_
-
-* Managed ETL processes in SSMS (SQL), Alteryx, and Azure Data Factory to organize client financial data into meaningful schemas for future analytical processing and business needs reporting through Power BI.
-* Created statistical models including customer churn analysis, transaction allocation, and product resegmentation through historical transaction data analysis in Python and Databricks.
-* Managed feature creation and user testing for a client facing application targeting job leveling. This application is built by the Data and Technology team at PwC, and aided in deals valued at $4.7B+, capturing value through employee restructuring.
-
-
-### PwC Consulting Services	
-#### _Data and Technology Solutions Consultant Intern_
-
-* Created ETL pipeline for transaction datasets for an M&A deal valuing 3.9B+ using Python, SQL, and Azure tools, transforming data into actionable insights to support strategic decision-making processes.
-* Investigated key performance indicator (KPI) movements and interpret trends within evolving datasets, and communicated business strategies through visualizations and dashboards in Power BI.
-
-### Binance - Swipe Division
-#### _Risk and Compliance Consultant Intern_
-
-* Conducted research and analyzed customer behavior data to identify risks and opportunities.
-* Contributed to improving compliance policies and optimizing product offerings.
-* Provided insights for finance and compliance teams, leveraging quantitative analysis of quarterly compliance testing to refine company risk management processes and optimize product design.
-
-### UCLA Office of Residential Life
-#### _Lead Residential Advisor_
-
-* Serve as live-in advisor for 93 UCLA students to create an inclusive, healthy, safe residential community
-* Mediate roommate conflicts, host floor meetings, and plan events to promote connectivity (dinners, socials)
-* Provide guidance and resources to support residents through academic, social, and mental health challenges
-
 * * *
 ## Education
 ### University of California, Los Angeles (2020-2024)
