@@ -14,10 +14,14 @@ Feel free to look through my projects and reach me through my [linkedin](https:/
 
 ### PwC Consulting Services
 #### _Data and Technology Solutions Consultant_
-
+* Created analytics reports and models for 4+ projects, including customer churn analysis, transaction
+allocation, and product resegmentation through historical transaction data analysis in Databricks.
 * Managed ETL processes in SSMS (SQL), Alteryx, and Azure Data Factory to organize client financial data into meaningful schemas for future analytical processing and business needs reporting through Power BI.
-* Created statistical models including customer churn analysis, transaction allocation, and product resegmentation through historical transaction data analysis in Python and Databricks.
-* Managed feature creation and user testing for a client facing application targeting job leveling. This application is built by the Data and Technology team at PwC, and aided in deals valued at $4.7B+, capturing value through employee restructuring.
+* Transitioned ETL processes to Databricks and Azure Data Factory, resulting in efficient organization of
+financial data into meaningful schemas and increased data observability for business reporting needs.
+* Supported planning and development for dedicated client web application backends; Identify and resolve
+bugs, deploy app instances, and drive feature creation and customization efforts from client feedback.
+
 
 
 ### PwC Consulting Services	
