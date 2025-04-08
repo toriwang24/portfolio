@@ -4,8 +4,8 @@ layout: default
 
 # Welcome to my Website!
 
-I am a Data and Technology Associate Consultant at PwC, where I conduct data science and engineering for our private equity & capital markets value creation practice.
-I am passionate about innovative practices for data management and analytics, and effectively commmunicating tangible results of data driven insights!
+I am a detail oriented Data Science Consultant at PwC with experience in machine learning, data science, and statistical modeling. I have proven ability in data-driven decision-making, supporting multi-billion dollar M&A deals, and am skilled in utilizing ML models to analyze large-scale unstructured data sets. Expertise in Databricks for customer
+churn analysis and KPI trend tracking, as well as Azure cloud services for PostgreSQL database management and application integration. I am passionate about innovative practices for data management and analytics, and effectively commmunicating tangible results of data driven insights!
 
 Feel free to look through my projects and reach me through my [linkedin](https://www.linkedin.com/in/toriwang)!
 * * *
