@@ -91,7 +91,7 @@ _Activities_: Consultant, International Bruins in Business; Project Lead, ArtRea
 
 ## Passions and Skills
 ### Passions
-* Hiking and Backpacking, Coooking, and Gymnastics!
+* Hiking and Backpacking, Cooking, and Gymnastics!
 
   
 ### Skills
