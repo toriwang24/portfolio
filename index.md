@@ -18,40 +18,6 @@ Feel free to look through my projects and reach me through my [linkedin](https:/
 
 * * *
 
-## Work Experience
-
-### PwC Consulting Services
-#### _Data and Technology Solutions Consultant_
-* Created analytics reports and models for 4+ projects, including customer churn analysis, transaction
-allocation, and product resegmentation through historical transaction data analysis in Databricks.
-* Managed ETL processes in SSMS (SQL), Alteryx, and Azure Data Factory to organize client financial data into meaningful schemas for future analytical processing and business needs reporting through Power BI.
-* Transitioned ETL processes to Databricks and Azure Data Factory, resulting in efficient organization of
-financial data into meaningful schemas and increased data observability for business reporting needs.
-* Supported planning and development for dedicated client web application backends; Identify and resolve
-bugs, deploy app instances, and drive feature creation and customization efforts from client feedback.
-
-
-
-### PwC Consulting Services	
-#### _Data and Technology Solutions Consultant Intern_
-
-* Created ETL pipeline for transaction datasets for an M&A deal valuing 3.9B+ using Python, SQL, and Azure tools, transforming data into actionable insights to support strategic decision-making processes.
-* Investigated key performance indicator (KPI) movements and interpret trends within evolving datasets, and communicated business strategies through visualizations and dashboards in Power BI.
-
-### Binance - Swipe Division
-#### _Risk and Compliance Consultant Intern_
-
-* Conducted research and analyzed customer behavior data to identify risks and opportunities.
-* Contributed to improving compliance policies and optimizing product offerings.
-* Provided insights for finance and compliance teams, leveraging quantitative analysis of quarterly compliance testing to refine company risk management processes and optimize product design.
-
-### UCLA Office of Residential Life
-#### _Lead Residential Advisor_
-
-* Serve as live-in advisor for 93 UCLA students to create an inclusive, healthy, safe residential community
-* Mediate roommate conflicts, host floor meetings, and plan events to promote connectivity (dinners, socials)
-* Provide guidance and resources to support residents through academic, social, and mental health challenges
-
 ## Personal and Academic Projects
 
 ## UCLA, AWS, and Slalom Innovation Challenge
@@ -65,7 +31,6 @@ I had such a fun time with my teammates, and our team ended up winning which gav
 
 <img src="assets/img/MedalUp-News.png" alt="Alt Text" width="400" height="400">
 
-#### Here are some previews of our Pitch Deck. View the full presentation [here]("pdfs/Team5-DataRangers-Pitch-Deck.pdf").
 <img src="assets/img/MedalUp-1.png" alt="Alt Text" width="500" height="280">
 <img src="assets/img/MedalUp-2.png" alt="Alt Text" width="500" height="280">
 <img src="assets/img/MedalUp-3.png" alt="Alt Text" width="500" height="280">
@@ -79,7 +44,6 @@ As part of the Capstone Course for the Data Theory Major, students must conduct 
 As part of our project, my team developed a Python-based workflow to analyze server calls on a retail website over a 3 month timeframe, and conducted feature selection on variables, extracting and cleaning 5% of total metrics to use in model creation. We then created a baseline logistic regression model, and a neural network that achieved 70% accuracy in predicting eventual customer purchase. We presented our findings around the customer experience and purchase prediction to recommend advertising strategies to FingerHut.
 
 
-#### Here are some previews of our presentation. View the full presentation [here]("pdfs/M148-Slide-Deck.pdf").
 <img src="assets/img/M148-1.png" alt="Alt Text" width="500" height="280">
 <img src="assets/img/M148-2.png" alt="Alt Text" width="500" height="280">
 <img src="assets/img/M148-3.png" alt="Alt Text" width="500" height="280">
