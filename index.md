@@ -10,6 +10,14 @@ churn analysis and KPI trend tracking, as well as Azure cloud services for Postg
 Feel free to look through my projects and reach me through my [linkedin](https://www.linkedin.com/in/toriwang)!
 * * *
 
+## Resume
+<iframe src="pdfs/Tori_Wang_Resume.docx.pdf" width="100%" height="600px">
+    <p>This browser does not support PDFs. Please download the PDF to view it: 
+    <a href="pdfs/Tori_Wang_Resume.docx.pdf">Download PDF</a>.</p>
+</iframe>
+
+* * *
+
 ## Work Experience
 
 ### PwC Consulting Services
